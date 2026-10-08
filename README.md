@@ -43,3 +43,7 @@ Mehmet Usta'nın fotoğraflarını kendi galeri sayfasına koyabilir, önce/sonr
 ## Yayından önce
 
 Telefon bağlantılarını ve mobil menüyü gerçek cihazda deneyin. Dışarıdan çekilen temsili fotoğrafların yüklenmesini ve GitHub Pages yayınının aktifleştirildiğini doğrulayın.
+
+## GitHub Pages yayın kontrolü
+
+Site dosyaları `main` dalının kökünde ve `index.html` giriş dosyası mevcuttur. GitHub Pages kaynağı `Deploy from a branch` / `main` / `/(root)` olarak seçilmelidir.
