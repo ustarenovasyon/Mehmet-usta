@@ -1,5 +1,5 @@
 # Atalay Yapı Dekorasyon
 
-Mehmet Atalay (Mehmet Usta) — Bornova / İzmir.
+Mehmet Atalay (Mehmet Usta) · Bornova / İzmir. Telefon: 0544 997 87 60.
 
-Bu depoda resmi web sitesinin kaynak kodu bulunur. E-posta, gerçek proje görseli ve adres bilgileri doğrulanmadan yayımlanmaz.
+GitHub Pages üzerinden yayınlanabilir. Ayarlar: Settings → Pages → Deploy from a branch → main / root.
